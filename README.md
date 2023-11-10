@@ -1,4 +1,4 @@
-# [Unofficial]:IDC VSCode Extension
+# [Unofficial]: Intel Developer Cloud VSCode Extension
 
 <img src="images/icon.png" alt="IDC Extension Icon" width="200" height="200"/>
 
