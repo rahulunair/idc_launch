@@ -9,19 +9,19 @@ This extension enables developers to easily connect to Intel Developer Cloud (ID
 
 ## Features
 
-- Seamless SSH connection setup to IDC servers.
+- Seamless SSH connection setup to Intel Developer Cloud servers.
 - Utilizes VSCode Tunnel plugin for secure connections.
 - Persistent access with stored user credentials.
 
 ## Prerequisites
 
-- An active account on Intel Developer Cloud.
+- An active account on Intel Developer Cloud (IDC).
 - Your public SSH key added to your IDC profile.
 
 ## Getting Started
 
-1. Install the extension from the VSCode Marketplace.
-2. Retrieve your IDC username by initiating an SSH launch command from the IDC training notebooks section.
+1. Install the extension from the VSCode Marketplace
+2. To retrieve your IDC username, log in or register at [IDC](https://cloud.intel.com), navigate to the Training catalog, and select any training. Click on Details, then click on Options located below the Launch Jupyter Notebook button. This will initiate an SSH launch command, from which you can obtain your IDC training notebook's username.
 3. Enter your IDC username when prompted by the extension.
 4. The extension stores your username for future sessions, eliminating the need for repeated setup.
 
