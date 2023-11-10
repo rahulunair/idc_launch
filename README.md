@@ -1,6 +1,6 @@
 # [Unofficial]:IDC VSCode Extension
 
-<img src="images/icon.png" alt="IDC Extension Icon" width="300" height="300"/>
+<img src="images/icon.png" alt="IDC Extension Icon" width="200" height="200"/>
 
 
 This extension enables developers to easily connect to Intel Developer Cloud (IDC) servers that come with preinstalled AI frameworks and access to Intel accelerators (XPUs). It integrates with Microsoft's VSCode Tunnel plugin to establish a secure SSH tunnel for development activities.
